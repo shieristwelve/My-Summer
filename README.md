@@ -2,7 +2,7 @@
 
 Hi! I'm your first file in **Summer training**. If you want to learn about my first summer at AHU, you can read me.  
 
-remember tell yourself “好像美好的事物都包裹这一种永别感，好像这一刻再也不会有了。”
+remember tell yourself “好像美好的事物都包裹这一种永别感，好像这一刻再也不会有了。”  
 “坐在教西207的第一排。窗外，树荫抓住了夏季倾泻的阳光，星星点点从指缝间漏出，散落在桌角。这样的夏天，也许再也不会有了吧。”
 
 # 参与项目
